@@ -1,3 +1,5 @@
+# Rename to main.py for autoboot
+
 import netman
 import socket
 
